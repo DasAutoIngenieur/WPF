@@ -11,22 +11,22 @@
 <div class="container right-panel-active">
 
 	<div class="container__form container--signup">
-		<form action="#" class="form" id="form1">
+		<form action="#" method="POST" class="form" id="form1">
 			<h2 class="form__title">Sign Up</h2>
-			<input type="text" placeholder="User" class="input" />
-			<input type="email" placeholder="Email" class="input" />
-			<input type="password" placeholder="Password" class="input" />
-			<button class="btn">Sign Up</button>
+			<input type="text" id="username" placeholder="User" class="input" name="username" required/>
+			<input type="email" id="username" placeholder="Email" class="input" name="username" required/>
+			<input type="password" id="password" placeholder="Password" class="input" name="password" required/>
+			<button type="submit" class="btn">Sign Up</button>
 		</form>
 	</div>
 
 	<div class="container__form container--signin">
-		<form action="#" class="form" id="form2">
+		<form action="#" method="POST" class="form" id="form2">
 			<h2 class="form__title">Sign In</h2>
-			<input type="email" placeholder="Email" class="input" />
-			<input type="password" placeholder="Password" class="input" />
+			<input type="email" id="signin-email" placeholder="Email" class="input" name="email" required/>
+			<input type="password" id="signin-password" placeholder="Password" class="input" name="password" required/>
 			<a href="#" class="link">Forgot your password?</a>
-			<button class="btn">Sign In</button>
+			<button type="submit" class="btn">Sign In</button>
 		</form>
 	</div>
 
