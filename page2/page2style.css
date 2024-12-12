@@ -49,7 +49,7 @@ article {
 
 h1 {
     color: hsl(0 0% 90%);
-    font-size: 52px;
+    font-size: 50px;
 }
 
 :is(section, article) {
@@ -188,7 +188,7 @@ section:nth-of-type(2) article:nth-of-type(3) img {
 
 .text-blocks {
     max-width: 100%;
-    width: 60ch;
+    width: 75ch;
     justify-self: center;
     display: grid;
     place-items: center;
@@ -198,7 +198,7 @@ section:nth-of-type(2) article:nth-of-type(3) img {
 /* Text block styling */
 .chat-container {
     height: 100vh;
-    width: 100%;
+    width: 135%;
     position: sticky;
     top: 0;
     display: grid;
