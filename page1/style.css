@@ -128,7 +128,7 @@
   p:nth-of-type(2) {
 	  font-size: clamp(1rem, 3vw + 1rem, 2rem);
 	  font-weight: 600;
-	  background: radial-gradient(50% 100% at 50% 100%, hsl(45, 100%, 80%), hsl(45, 100%, 60%), transparent 50%);
+	  background: radial-gradient(50% 100% at 50% 100%, hsl(24, 100%, 80%), hsl(24, 100%, 53%), transparent 50%);
 	  background-size: 400% 600%;
 	  -webkit-background-clip: text;
 	  background-position: 50% 0;
