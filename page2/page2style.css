@@ -85,6 +85,10 @@ a:last-of-type:is(:hover, :focus-visible) {
     background: hsl(173 100% 40%);
 }
 
+.adiff {
+  color:white;
+}
+
 .content {
     margin: 0 auto;
     width: 1150px;
