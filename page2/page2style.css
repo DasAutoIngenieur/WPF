@@ -188,7 +188,7 @@ section:nth-of-type(2) article:nth-of-type(3) img {
 
 .text-blocks {
     max-width: 100%;
-    width: 75ch;
+    width: 80ch;
     justify-self: center;
     display: grid;
     place-items: center;
