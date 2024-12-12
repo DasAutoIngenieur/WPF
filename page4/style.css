@@ -25,7 +25,7 @@ h1:before {
   content: "";
   width: 100px;
   height: 5px;
-  background: #880e4f;
+  background: black;
   margin: 0 45px 10px -145px;
   display: inline-block;
 }

@@ -24,5 +24,5 @@ body {
   place-content: center;
   grid-auto-flow: column;
   gap: 30px;
-  background: #C44D58;
+  background: black;
 }
