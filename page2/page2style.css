@@ -72,7 +72,7 @@ a:first-of-type {
     place-items: center;
     color: white;
 }
-a:last-of-type {
+/* a:last-of-type {
     background: hsl(173 100% 51%);
     color: black;
     padding: 1rem 2rem;
@@ -80,10 +80,10 @@ a:last-of-type {
     text-decoration: none;
     font-weight: 120;
     transition: background 0.2s;
-}
-a:last-of-type:is(:hover, :focus-visible) {
+} */
+/* a:last-of-type:is(:hover, :focus-visible) {
     background: hsl(173 100% 40%);
-}
+} */
 
 .adiff {
   color:white;
