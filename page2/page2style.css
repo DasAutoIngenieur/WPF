@@ -65,17 +65,6 @@ nav {
     display: flex;
     justify-content: space-between;
 }
-a:first-of-type {
-    width: 48px;
-    aspect-ratio: 1;
-    display: grid;
-    place-items: center;
-    color: white;
-}
-
-.adiff {
-  color:white;
-}
 
 .content {
     margin: 0 auto;
